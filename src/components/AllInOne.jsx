@@ -33,7 +33,7 @@ const AllInOne = () => {
               <h3 className="font-bold text-lg">Notifications</h3>
               <p className="text-lg pt-2 pb-4">
                 Finding the rigth teamFinding the rigth team Finding the rigth
-                team Finding the rigth teamv v Finding the rigth team team
+                team Finding the rigth tv Finding the rigth team team
                 Finding the rigth
               </p>
             </div>
